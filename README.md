@@ -1,3 +1,12 @@
+#ABSTRACT
+The Inventory Management System is a desktop application designed to manage inventory efficiently for small-scale businesses or personal projects. It provides functionalities to add, update, and delete items, displaying them in a real-time table with details such as item name, price, and quantity. Built using Java Swing, the system offers an intuitive graphical user interface for ease of use. It dynamically calculates and displays the total number of items and the overall cost of inventory, ensuring accurate monitoring. Input validation is implemented to prevent errors and maintain data integrity. The application features interactive components like buttons and tables to simplify operations. Designed with a focus on user-friendliness, it aims to address common challenges in inventory management. This report details the development, features, and potential future enhancements of the system, demonstrating its effectiveness as a simple and reliable solution for managing inventory.
+
+
+
+
+
+
+
 # INVENTORY-MANAGEMENT-SYSTEM_JAVA
 
 import javax.swing.*;
